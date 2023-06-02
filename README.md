@@ -26,3 +26,7 @@ The following technologies are used to build this project:
 - Storage: [Google Cloud Storage](https://cloud.google.com/storage)
 - Orchestration: [Mage](https://www.mage.ai)
 - Dashboard: [Looker Studio](https://lookerstudio.google.com)
+
+## Data Pipeline Architecture
+![image](https://github.com/Pushpen-Joshi/project-uber-taxi/assets/112235293/5089a0bf-152b-4710-90ee-7a7ea5c28b8c)
+
