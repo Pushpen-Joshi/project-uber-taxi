@@ -36,6 +36,6 @@ Files in the following stages:
 - Step 1: Storage
 - Step 2: ETL, Orchestration - Mage 
 -  - [Data Loader](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-loader.ipynb)
--   [transform](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-transform.ipynb)
--   [export](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-extract.ipynb)
+-  - [transform](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-transform.ipynb)
+-  - [export](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-extract.ipynb)
 
