@@ -19,3 +19,10 @@ More info about dataset can be found here:
 - Website: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 - Data Dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 - Raw Data: https://github.com/Pushpen-Joshi/project-uber-taxi/blob/aaa6055777dd9effc9cce8611e0f39b8e23d3de6/data/uber_data.csv
+
+The following technologies are used to build this project:
+- Language: [Python](https://www.python.org/), SQL
+- Extraction and transformation: [Jupyter Notebook](https://jupyter.org/), [Google BigQuery](https://cloud.google.com/bigquery/)
+- Storage: [Google Cloud Storage](https://cloud.google.com/storage)
+- Orchestration: [Mage](https://www.mage.ai)
+- Dashboard: [Looker Studio](https://lookerstudio.google.com)
