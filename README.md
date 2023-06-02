@@ -31,18 +31,18 @@ The following technologies are used to build this project:
 ![image](https://github.com/Pushpen-Joshi/project-uber-taxi/assets/112235293/5089a0bf-152b-4710-90ee-7a7ea5c28b8c)
 
 ## Steps Involved
-Files in the following stages:
+
 - Step 1: Cleaning and transformation: Following is the transformation code written in python to transform the data into desired state and test locally.
    [transformation-code.ipynb](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/etl_pipeline.ipynb)
 - Step 2: Storage:
    Load the data into google cloud storage bucket. Methods to upload data in a bucket can be found in below link.
    [Uploading objects in google cloud storage](https://cloud.google.com/storage/docs/uploading-objects)
-- Step 2: ETL, Orchestration - Mage 
+- Step 2: ETL Orchestration - Mage 
    - [Data Loader](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-loader.ipynb):
       This code block fetches the data from google cloud storage bucket and ready the data for the next transfomation step. The output of this code block would be used as i       input for the next transformation block.
    - [Transform](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-transform.ipynb):
       This code block transforms the raw csv data into a fact and dimension tables model along with cleansing of data such as removing duplicates. The output of this transformation block would be used as input for the next data export block.
-   - [Export](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-extract.ipynb)
+   - [Export](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-extract.ipynb):
       This code block uses the output of transform block as input and exports the data into Google BigQuery dataset for further analysis.
 
 ## Data Model
