@@ -30,3 +30,12 @@ The following technologies are used to build this project:
 ## Data Pipeline Architecture
 ![image](https://github.com/Pushpen-Joshi/project-uber-taxi/assets/112235293/5089a0bf-152b-4710-90ee-7a7ea5c28b8c)
 
+## Steps Involved
+Files in the following stages:
+- Step 0: Cleaning and transformation - [Uber Data Engineering.ipynb](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/etl_pipeline.ipynb)
+- Step 1: Storage
+- Step 2: ETL, Orchestration - Mage 
+- _[Data Loader](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-loader.ipynb)
+- _[transform](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-transform.ipynb)
+- _[export](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-extract.ipynb)
+
