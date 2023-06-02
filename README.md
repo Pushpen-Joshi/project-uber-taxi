@@ -35,7 +35,12 @@ Files in the following stages:
 - Step 0: Cleaning and transformation - [Uber Data Engineering.ipynb](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/etl_pipeline.ipynb)
 - Step 1: Storage
 - Step 2: ETL, Orchestration - Mage 
--  - [Data Loader](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-loader.ipynb)
--  - [transform](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-transform.ipynb)
--  - [export](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-extract.ipynb)
+   - [Data Loader](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-loader.ipynb)
+   - [transform](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-transform.ipynb)
+   - [export](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-extract.ipynb)
+
+## Data Model
+
+![image](https://github.com/Pushpen-Joshi/project-uber-taxi/assets/112235293/a1ea07d4-bad4-4908-b028-c2420b7fdfa6)
+
 
