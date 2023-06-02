@@ -1,15 +1,15 @@
-# modern-data-engineering-project 🚗
-End to end data pipeline proeject for Uber Taxi 🚕
+# Modern Data Engineering Project 🚗
+End to end data pipeline project for Uber Taxi 🚕
 
 ## Objective
 
 In this project, I designed and implemented an end-to-end data pipeline that consists of several stages:
 1. Extracted data from NYC Trip Record Data website and loaded it into Google Cloud Storage for further processing.
 3. Transformed and modeled the data using fact and dimensional data modeling concepts using Python on Jupyter Notebook.
-4. Using ETL, I orchestrated the data pipeline on Mage and loaded the transformed data into Google BigQuery.
-5. Developed a dashboard on Looker Studio.
+4. Using ETL, orchestrated the data pipeline on Mage and loaded the transformed data into Google BigQuery.
+5. Developed a dashboard on Looker Studio to generate insights.
 
-As this is a data engineering project, the emphasis is primarily on the engineering aspect with a lesser emphasis on analytics and dashboard development.
+Being a data engineering project, the emphasis is primarily on the engineering aspect with a lesser emphasis on analytics and dashboard development.
 
 ## Dataset
 
@@ -32,8 +32,10 @@ The following technologies are used to build this project:
 
 ## Steps Involved
 Files in the following stages:
-- Step 0: Cleaning and transformation - [Uber Data Engineering.ipynb](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/etl_pipeline.ipynb)
-- Step 1: Storage
+- Step 1: Cleaning and transformation - [transformation-code.ipynb](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/etl_pipeline.ipynb)
+- Step 2: Storage
+   Load the data into google cloud storage bucket. Methods to upload data in a bucket can be found in below link.
+   [Uploading objects in google cloud storage](https://cloud.google.com/storage/docs/uploading-objects)
 - Step 2: ETL, Orchestration - Mage 
    - [Data Loader](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-loader.ipynb)
    - [transform](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-transform.ipynb)
