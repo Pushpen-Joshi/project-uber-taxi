@@ -40,10 +40,10 @@ Files in the following stages:
 - Step 2: ETL, Orchestration - Mage 
    - [Data Loader](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-loader.ipynb):
       This code block fetches the data from google cloud storage bucket and ready the data for the next transfomation step. The output of this code block would be used as i       input for the next transformation block.
-   - [transform](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-transform.ipynb):
+   - [Transform](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-transform.ipynb):
       This code block transforms the raw csv data into a fact and dimension tables model along with cleansing of data such as removing duplicates. The output of this transformation block would be used as input for the next data export block.
-   - [export](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-extract.ipynb)
-      
+   - [Export](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/88822d0d464b11007d2e7776faf8f3124ab7ed1c/Mage/uber-data-extract.ipynb)
+      This code block uses the output of transform block as input and exports the data into Google BigQuery dataset for further analysis.
 
 ## Data Model
 
