@@ -50,3 +50,7 @@ The following technologies are used to build this project:
 ![image](https://github.com/Pushpen-Joshi/project-uber-taxi/assets/112235293/a1ea07d4-bad4-4908-b028-c2420b7fdfa6)
 
 
+## Dashboard
+Here is the Looker Studio Dashboard link: [Uber Dashboard](https://lookerstudio.google.com/reporting/e616a4f8-1793-4829-8c53-1eba26f496c5)
+
+
