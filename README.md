@@ -18,7 +18,7 @@ This project uses the TLC Trip Record Data which includes fields capturing pick-
 More info about the dataset can be found here:
 - Website: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 - Data Dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
-- Raw Data: https://github.com/Pushpen-Joshi/project-uber-taxi/blob/aaa6055777dd9effc9cce8611e0f39b8e23d3de6/data/uber_data.csv
+- Raw Data: [uber_data.csv](https://github.com/Pushpen-Joshi/project-uber-taxi/blob/aaa6055777dd9effc9cce8611e0f39b8e23d3de6/data/uber_data.csv)
 
 The following technologies are used to build this project:
 - Language: [Python](https://www.python.org/), SQL
