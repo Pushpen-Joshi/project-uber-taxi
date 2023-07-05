@@ -53,10 +53,10 @@ The following technologies are used to build this project:
 ## Dashboard
 Here is the Looker Studio Dashboard link: [Uber Dashboard](https://lookerstudio.google.com/reporting/e616a4f8-1793-4829-8c53-1eba26f496c5)
 
-<img width="1000" alt="image" src="https://github.com/Pushpen-Joshi/project-uber-taxi/assets/112235293/0b00ff28-d656-4266-88fc-1b7287abd5c9">
-<img width="722" alt="image" src="https://github.com/Pushpen-Joshi/project-uber-taxi/assets/112235293/34535b56-2aa0-4433-91ff-3d08da5823e2">
-<img width="722" alt="image" src="https://github.com/Pushpen-Joshi/project-uber-taxi/assets/112235293/c1c95455-f2fd-41df-8e50-4a6fd1e2162a">
-<img width="722" alt="image" src="https://github.com/Pushpen-Joshi/project-uber-taxi/assets/112235293/f866ac60-d67f-48c9-ae85-a3015a75baee">
+<img width="1010" alt="image" src="https://github.com/Pushpen-Joshi/project-uber-taxi/assets/112235293/0b00ff28-d656-4266-88fc-1b7287abd5c9">
+<img width="1010" alt="image" src="https://github.com/Pushpen-Joshi/project-uber-taxi/assets/112235293/34535b56-2aa0-4433-91ff-3d08da5823e2">
+<img width="1010" alt="image" src="https://github.com/Pushpen-Joshi/project-uber-taxi/assets/112235293/c1c95455-f2fd-41df-8e50-4a6fd1e2162a">
+<img width="1010" alt="image" src="https://github.com/Pushpen-Joshi/project-uber-taxi/assets/112235293/f866ac60-d67f-48c9-ae85-a3015a75baee">
 
 
 
